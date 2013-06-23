@@ -17,6 +17,7 @@
 		939AE2B71776058500A367D3 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 939AE2971776058400A367D3 /* Cocoa.framework */; };
 		939AE2BF1776058500A367D3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 939AE2BD1776058500A367D3 /* InfoPlist.strings */; };
 		939AE2C21776058500A367D3 /* SplitePhotoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 939AE2C11776058500A367D3 /* SplitePhotoTests.m */; };
+		93ED3BED1776EC6B006DD982 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93ED3BEC1776EC6B006DD982 /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		939AE2BE1776058500A367D3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		939AE2C01776058500A367D3 /* SplitePhotoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SplitePhotoTests.h; sourceTree = "<group>"; };
 		939AE2C11776058500A367D3 /* SplitePhotoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SplitePhotoTests.m; sourceTree = "<group>"; };
+		93ED3BEC1776EC6B006DD982 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93ED3BED1776EC6B006DD982 /* QuartzCore.framework in Frameworks */,
 				939AE2981776058400A367D3 /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -75,6 +78,7 @@
 		939AE28B1776058400A367D3 = {
 			isa = PBXGroup;
 			children = (
+				93ED3BEC1776EC6B006DD982 /* QuartzCore.framework */,
 				939AE29D1776058400A367D3 /* SplitePhoto */,
 				939AE2BA1776058500A367D3 /* SplitePhotoTests */,
 				939AE2961776058400A367D3 /* Frameworks */,
@@ -452,6 +456,7 @@
 				939AE2C71776058500A367D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		939AE2C81776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitePhotoTests" */ = {
 			isa = XCConfigurationList;
@@ -460,6 +465,7 @@
 				939AE2CA1776058500A367D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
