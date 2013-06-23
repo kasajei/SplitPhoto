@@ -31,22 +31,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		939AE2941776058400A367D3 /* SplitePhoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SplitePhoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		939AE2941776058400A367D3 /* SplitPhoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SplitPhoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		939AE2971776058400A367D3 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		939AE29A1776058400A367D3 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		939AE29B1776058400A367D3 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		939AE29C1776058400A367D3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		939AE29F1776058400A367D3 /* SplitePhoto-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SplitePhoto-Info.plist"; sourceTree = "<group>"; };
+		939AE29F1776058400A367D3 /* SplitPhoto-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SplitPhoto-Info.plist"; sourceTree = "<group>"; };
 		939AE2A11776058400A367D3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		939AE2A31776058400A367D3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		939AE2A51776058400A367D3 /* SplitePhoto-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SplitePhoto-Prefix.pch"; sourceTree = "<group>"; };
+		939AE2A51776058400A367D3 /* SplitPhoto-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SplitPhoto-Prefix.pch"; sourceTree = "<group>"; };
 		939AE2A71776058400A367D3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
 		939AE2A91776058400A367D3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		939AE2AA1776058400A367D3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		939AE2AD1776058400A367D3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		939AE2B41776058500A367D3 /* SplitePhotoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SplitePhotoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		939AE2B41776058500A367D3 /* SplitPhotoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SplitPhotoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		939AE2B51776058500A367D3 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		939AE2BC1776058500A367D3 /* SplitePhotoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SplitePhotoTests-Info.plist"; sourceTree = "<group>"; };
+		939AE2BC1776058500A367D3 /* SplitPhotoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SplitPhotoTests-Info.plist"; sourceTree = "<group>"; };
 		939AE2BE1776058500A367D3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		939AE2C01776058500A367D3 /* SplitePhotoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SplitePhotoTests.h; sourceTree = "<group>"; };
 		939AE2C11776058500A367D3 /* SplitePhotoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SplitePhotoTests.m; sourceTree = "<group>"; };
@@ -89,8 +89,8 @@
 		939AE2951776058400A367D3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				939AE2941776058400A367D3 /* SplitePhoto.app */,
-				939AE2B41776058500A367D3 /* SplitePhotoTests.octest */,
+				939AE2941776058400A367D3 /* SplitPhoto.app */,
+				939AE2B41776058500A367D3 /* SplitPhotoTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -129,10 +129,10 @@
 		939AE29E1776058400A367D3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				939AE29F1776058400A367D3 /* SplitePhoto-Info.plist */,
+				939AE29F1776058400A367D3 /* SplitPhoto-Info.plist */,
 				939AE2A01776058400A367D3 /* InfoPlist.strings */,
 				939AE2A31776058400A367D3 /* main.m */,
-				939AE2A51776058400A367D3 /* SplitePhoto-Prefix.pch */,
+				939AE2A51776058400A367D3 /* SplitPhoto-Prefix.pch */,
 				939AE2A61776058400A367D3 /* Credits.rtf */,
 			);
 			name = "Supporting Files";
@@ -151,7 +151,7 @@
 		939AE2BB1776058500A367D3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				939AE2BC1776058500A367D3 /* SplitePhotoTests-Info.plist */,
+				939AE2BC1776058500A367D3 /* SplitPhotoTests-Info.plist */,
 				939AE2BD1776058500A367D3 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -160,9 +160,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		939AE2931776058400A367D3 /* SplitePhoto */ = {
+		939AE2931776058400A367D3 /* SplitPhoto */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 939AE2C51776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitePhoto" */;
+			buildConfigurationList = 939AE2C51776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitPhoto" */;
 			buildPhases = (
 				939AE2901776058400A367D3 /* Sources */,
 				939AE2911776058400A367D3 /* Frameworks */,
@@ -172,14 +172,14 @@
 			);
 			dependencies = (
 			);
-			name = SplitePhoto;
+			name = SplitPhoto;
 			productName = SplitePhoto;
-			productReference = 939AE2941776058400A367D3 /* SplitePhoto.app */;
+			productReference = 939AE2941776058400A367D3 /* SplitPhoto.app */;
 			productType = "com.apple.product-type.application";
 		};
-		939AE2B31776058500A367D3 /* SplitePhotoTests */ = {
+		939AE2B31776058500A367D3 /* SplitPhotoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 939AE2C81776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitePhotoTests" */;
+			buildConfigurationList = 939AE2C81776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitPhotoTests" */;
 			buildPhases = (
 				939AE2AF1776058500A367D3 /* Sources */,
 				939AE2B01776058500A367D3 /* Frameworks */,
@@ -191,9 +191,9 @@
 			dependencies = (
 				939AE2B91776058500A367D3 /* PBXTargetDependency */,
 			);
-			name = SplitePhotoTests;
+			name = SplitPhotoTests;
 			productName = SplitePhotoTests;
-			productReference = 939AE2B41776058500A367D3 /* SplitePhotoTests.octest */;
+			productReference = 939AE2B41776058500A367D3 /* SplitPhotoTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -205,7 +205,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "@kasajei";
 			};
-			buildConfigurationList = 939AE28F1776058400A367D3 /* Build configuration list for PBXProject "SplitePhoto" */;
+			buildConfigurationList = 939AE28F1776058400A367D3 /* Build configuration list for PBXProject "SplitPhoto" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -217,8 +217,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				939AE2931776058400A367D3 /* SplitePhoto */,
-				939AE2B31776058500A367D3 /* SplitePhotoTests */,
+				939AE2931776058400A367D3 /* SplitPhoto */,
+				939AE2B31776058500A367D3 /* SplitPhotoTests */,
 			);
 		};
 /* End PBXProject section */
@@ -283,7 +283,7 @@
 /* Begin PBXTargetDependency section */
 		939AE2B91776058500A367D3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 939AE2931776058400A367D3 /* SplitePhoto */;
+			target = 939AE2931776058400A367D3 /* SplitPhoto */;
 			targetProxy = 939AE2B81776058500A367D3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -388,9 +388,9 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SplitePhoto/SplitePhoto-Prefix.pch";
-				INFOPLIST_FILE = "SplitePhoto/SplitePhoto-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "SplitePhoto/SplitPhoto-Prefix.pch";
+				INFOPLIST_FILE = "SplitePhoto/SplitPhoto-Info.plist";
+				PRODUCT_NAME = SplitPhoto;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -400,9 +400,9 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SplitePhoto/SplitePhoto-Prefix.pch";
-				INFOPLIST_FILE = "SplitePhoto/SplitePhoto-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "SplitePhoto/SplitPhoto-Prefix.pch";
+				INFOPLIST_FILE = "SplitePhoto/SplitPhoto-Info.plist";
+				PRODUCT_NAME = SplitPhoto;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -415,8 +415,8 @@
 				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SplitePhoto/SplitePhoto-Prefix.pch";
-				INFOPLIST_FILE = "SplitePhotoTests/SplitePhotoTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "SplitePhotoTests/SplitPhotoTests-Info.plist";
+				PRODUCT_NAME = SplitPhotoTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -430,8 +430,8 @@
 				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SplitePhoto/SplitePhoto-Prefix.pch";
-				INFOPLIST_FILE = "SplitePhotoTests/SplitePhotoTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "SplitePhotoTests/SplitPhotoTests-Info.plist";
+				PRODUCT_NAME = SplitPhotoTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -440,7 +440,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		939AE28F1776058400A367D3 /* Build configuration list for PBXProject "SplitePhoto" */ = {
+		939AE28F1776058400A367D3 /* Build configuration list for PBXProject "SplitPhoto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				939AE2C31776058500A367D3 /* Debug */,
@@ -449,7 +449,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		939AE2C51776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitePhoto" */ = {
+		939AE2C51776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitPhoto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				939AE2C61776058500A367D3 /* Debug */,
@@ -458,7 +458,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		939AE2C81776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitePhotoTests" */ = {
+		939AE2C81776058500A367D3 /* Build configuration list for PBXNativeTarget "SplitPhotoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				939AE2C91776058500A367D3 /* Debug */,
